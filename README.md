@@ -6,7 +6,7 @@ This security system was made using a Pi, my Samsung A51, and using my laptop as
 
 Setup the pi, ultrasonic sensor, and buzzer as shown (use the pins numbers in pi/main.py as a guide):
 
-<img src="C:\Users\2021158\OneDrive - Appleby College\programs\node\security-system\pisetup.jpg" alt="pisetup" style="zoom:20%;" />
+<img src="./pisetup.jpg" alt="pisetup" style="zoom:20%;" />
 
 Then, install the project on both the Pi and phone (any phone that can run [Termux](https://termux.com/))
 
